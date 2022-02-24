@@ -1,1 +1,1 @@
-number = 'Phone_number_here' # start with country code
+number = 'PHONE_NUMBER_HERE' # start with country code
